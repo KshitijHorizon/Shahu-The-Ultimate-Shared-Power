@@ -1,0 +1,27 @@
+
+                  #####Registered User Hired Tools Info#####
+
+Name of Tool:           Wire Cutter
+Hired Date:             2019-01-17
+Hire Days:               Max 3 Days
+Tool Rate:    HalfDay   $123.0
+              Fullday   $234.0
+
+
+                  #####Registered User Hired Tools Info#####
+
+Name of Tool:           
+Hired Date:             
+Hire Days:               Max 3 Days
+Tool Rate:    HalfDay   $123.0
+              Fullday   $234.0
+
+
+                  #####Registered User Hired Tools Info#####
+
+Name of Tool:           Wire Cutter
+Hired Date:             2019-01-17
+Hire Days:               Max 3 Days
+Tool Rate:    HalfDay   $123.0
+              Fullday   $234.0
+

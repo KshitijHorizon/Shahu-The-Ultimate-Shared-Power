@@ -1,0 +1,12 @@
+
+               #####   Auto generated Invoice Monthly  #####
+
+Name of Tool:                Wire Cutter
+Hired Date:                  2019-01-17
+Hire Days:                    Max 3 Days
+Tool Rate:    HalfDay        $123.0
+              Fullday        $234.0
+InsuranceCharge              $5.00
+Total:        Fullday        $239.0
+              Halfday        $128.0
+Generated Date:               2019-01-17

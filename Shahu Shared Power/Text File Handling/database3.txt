@@ -1,0 +1,24 @@
+
+                  #####Registered User Information#####
+
+Name of user:        Ram Ghimire
+UserName:            ramghimire123@gmail.com
+Password:            7c4a8d09ca3762af61e59520943dc26494f8941b
+Account Selected:      Non-Premium        1
+                       Premium            0
+Gender:               Male
+Country:              Nepal
+Citizenship Number:    ABC!@qwerty123
+
+
+                  #####Registered User Information#####
+
+Name of user:        Dinesh Timalsina
+UserName:            dinesh@gmail.com
+Password:            00d025848a539d85a8055261ce666d3a081c809b
+Account Selected:      Non-Premium        0
+                       Premium            1
+Gender:               Male
+Country:              Nepal
+Citizenship Number:    10-ABC123-ABC
+Registered Date:            2019-01-17

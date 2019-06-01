@@ -1,0 +1,1 @@
+{'Name of Tool:': 'Wire Cutter', 'Tool Description:': 'This is used to Cut', 'Tool Condition:': 'Good', 'FullDayRate': '123', 'HalfDayRate': '234'}

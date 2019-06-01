@@ -1,0 +1,12 @@
+
+                  #####Registered User Information#####
+
+Name of user:        Dinesh Timalsina
+UserName:            dinesh@gmail.com
+Password:            00d025848a539d85a8055261ce666d3a081c809b
+Account Selected:      Non-Premium        0
+                       Premium            1
+Gender:               Male
+Country:              Nepal
+Citizenship Number:    10-ABC123-ABC
+Regsitered Date:            2019-01-17
